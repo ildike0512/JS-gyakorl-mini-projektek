@@ -1,4 +1,8 @@
-# JS-gyakorl-mini-projektek
+# JS-gyakorló-mini-projektek
 
-Background switcher
+1. Background switcher
 https://jsbeginners.com/javascript-background-color-switcher/
+
+2. Balloon popping game
+https://jsbeginners.com/javascript-balloon-popping-project/
+
