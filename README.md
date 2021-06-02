@@ -1,0 +1,1 @@
+# JS-gyakorl-mini-projektek
